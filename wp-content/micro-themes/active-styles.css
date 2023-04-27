@@ -1,0 +1,20 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Geral ===================== */
+
+/** Geral >> botão do menu **/
+#post-339 .entry-post-title {
+	
+}
+
+/** Geral >> Elementor element 0c6d12a e con inner **/
+.elementor-element-0c6d12a .e-con-inner {
+	background: red !important;
+}
+
+/** Geral >> Post 11 elementor heading title **/
+#post-11 .elementor-heading-title {
+	color: red !important;
+}
+
